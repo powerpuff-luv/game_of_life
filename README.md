@@ -10,7 +10,7 @@ First, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/powerpuff-luv/game_of_life.git
-cd game_of_life
+cd game_of_life/src
 ```
 
 ### 2. Install Required Libraries
